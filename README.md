@@ -1,8 +1,6 @@
 # KDD-submission
 Source codes and data for KDD submission 394.
   
-The dropbox link for the three datasets.  
-  
 re.sh, wi.sh and la.sh are batch files to evaluate the model on reddit, wikipedia and lastFM.  
 
 Required environments:  
