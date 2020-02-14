@@ -13,3 +13,6 @@ tqdm==4.32.1
 torch==0.4.1  
 scikit_learn==0.19.1  
 
+For the data download, you can use:  
+bash download_data.sh
+
