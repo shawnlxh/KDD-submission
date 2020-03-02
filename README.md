@@ -28,7 +28,7 @@ This code can be given the following command-line arguments:
 ```--length：``` this is the aggregator size in second-order aggregator function.
 
   
-re.sh, wi.sh and la.sh are batch files to train the model on reddit, wikipedia and lastFM.  
+la.sh and la_test are batch files to train and test the model on lastFM. For other datasets, you can use the same format.
 
 Required environments:  
 Python 2  
